@@ -1,0 +1,10 @@
+all:
+  propel:
+    class:          sfPropelDatabase
+    param:
+      phptype:  pgsql
+      host:     localhost
+      port:     5432
+      database: pub
+      username: pub
+      password: 12345
