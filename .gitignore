@@ -1,0 +1,11 @@
+lib/model/om/*
+lib/model/map/*
+web/uploads/*
+*.pyc
+*.rej
+*.orig
+config/propel.ini
+config/databases.yml
+cache/
+log/
+data/sql
